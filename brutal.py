@@ -30,9 +30,9 @@ merah="\033[1;91m"
 biru="\033[1;96m"  
 
 os.system("clear")
-autoketik(f"{biru}[{kuning}Warning{biru}] {W}Jangan Lupa Subscribe Channel YogiHidden")
+autoketik(f"{biru}[{kuning}Warning{biru}] {W}Jangan Lupa Subscribe Channel LinDevelov")
 time.sleep(3)
-os.system("xdg-open https://www.youtube.com/@yogihidden6185")
+os.system("xdg-open https://www.youtube.com/@linzyofficialcps")
 autoketik(f"{biru}[{kuning}Warning{biru}] {W}Thx yang udah subscribe, semoga work")
 time.sleep(3)
 os.system("clear")
